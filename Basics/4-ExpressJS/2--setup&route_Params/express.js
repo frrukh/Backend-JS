@@ -15,6 +15,7 @@
 // it is preferred to install it globally so you can add a flag of global.
 // install globally : npm i nodemon -g
 // now we'll run like : nodemon filename
+// if it not work you can run like : npx nodemon filename
 
 const express = require('express') // importing express functionality.
 const app = express() // creating an app.
