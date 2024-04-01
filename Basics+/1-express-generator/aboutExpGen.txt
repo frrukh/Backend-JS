@@ -1,10 +1,10 @@
 // express generator package is used to generate the boilerplate for express js.
 // how to setup:
     // 1) install express generator globally
-        // npm i express-generator -g
+        // command : npm i express-generator -g
     // 2) generate boilerplate for express using the command:
-        // express foldername --view=ejs
-    // 3) then cd filename
-    // 4) then npm install
+        // command : express foldername --view=ejs
+    // 3) then command : cd filename
+    // 4) then command : npm install
     // 5) and finally to run the app:
-        // nodemon or npx nodemon
+        // command : nodemon or npx nodemon

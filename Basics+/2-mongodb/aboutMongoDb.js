@@ -14,5 +14,5 @@
     code                |               mongo-db
     DB setup            |               DB formation
     Model               |               Collection
-    Schema              |               Docuemnts
+    Schema(structure)   |               Docuemnt(each entry)
     */
